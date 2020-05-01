@@ -20,12 +20,20 @@ To the extent it is possible your code should be self descriptive. That is, the 
 
 Instead of using comments to describe the code, use comments to explain your intent. An example of a helpful comment is: "We are sorting this array because it makes the following logic much simpler." This tells future programmers something that the code itself cannot say, and helps future readers understand why you made certain choices.
 
-## 5. Use a Style Guide
+## 5. Use Functions For Grouping and to Avoid Repetition
+
+Functions are great for breaking up long blocks of code into smaller logical blocks. Programmers can use functions the same way writers use paragraphs, sub-headings, and chapters. By breaking logic into smaller blocks the code becomes easier to test, (usually) easier to read, and easier to refactor. 
+
+Functions are also great for reusing logic that appears in more than one place. If you find yourself using a mathematical formula, boolean equation, or series of data pre-processing steps repeatedly then you should probably pull that code into a function and use it instead of duplicating the logic. This makes the code easier to test. If you find a bug in the logic, you'll only have to fix it in one place. And, you'll save time copy/pasting the logic for that function.
+
+Whenever possible, keep functions short. Also, try to use fewer parameters whenever possible. Long function declarations are confusing just like long function bodies are confusing.
+
+## 6. Use a Style Guide
 
 Just like magazines and journals maintain a style guide for writing prose, most software companies maintain a style guide for the programming languages they use. Just like there are disagreements in the English world about using the Oxford Comma, there are stylistic disagreements in the programming community about topics such as tabs vs spaces, how many blank lines to put between function definitions, and where to put curly braces.
 
 Agreeing on a style guide can help programmers avoid endlessly arguing about contentious stylistic issues. Have the argument once as a team, agree on a style guide, then follow it. Most IDEs and text editors support "linters" that can identify many style guide violations with red squiggly underlining, which can also be very helpful.
 
-## 6. Don't Be Dogmatic
+## 7. Don't Be Dogmatic
 
 Every rule has exceptions. Keep an open mind when writing and reviewing code. If following a particular rule in the style guide (or some other rule of thumb) makes the code harder to understand, consider making an exception to the rule. 
