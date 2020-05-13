@@ -12,7 +12,7 @@ Although there is no explicit ordering to this content, when facilitating a work
 1. [Giving and Getting Feedback](giving-and-getting-feedback.md)
 1. [Examples](examples/)
     1. [Naming Variables](examples/variable-naming.py)
-    1. [Brevity vs Clarity](examples/brevity-vs-clarity.py)
+    1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py)
     1. [Don't Repeat Yourself](examples/DRY.py)
     1. [Documentation and Comments](examples/documentation-comments.py)
     1. [Code Structure](examples/structure.py)
