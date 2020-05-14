@@ -40,3 +40,31 @@ Every rule has exceptions. Keep an open mind when writing and reviewing code. If
 
 # Python vs R 
 
+Many an argument has occurred over if [R or Python is the better](https://www.guru99.com/r-vs-python.html) of the two languages. The answer? Do what makes most sense to you and your work. One isn't better than the other. They each have their own strengths, weaknesses, and utilities. That said, once you've selected a language to use for your needs be sure to then understand the significance of its fundamentals and styles.
+
+### Similarties: The Fundamentals
+
+The reason why these languages tend to come up in tandem with one another is their accessibility. These open-source programming languages are free, as are their tutorials. Resultantly, there is much available online for learning and troubleshooting.
+
+Thinking of programming languages similar to spoken languages (English, Mandarin, Spanish, etc), the fundamentals are the same for structuring the code itself: 
+- Data structure: Booleans (True/False), Numbers (1, 2, 3...), Characters (a, b, c...), and/or Strings (hello, my, name...) organized as Lists, Arrays, Series, Dictionaries, or Objects
+- Variables: Assiging a value so it can be understood by the code
+- Conditionals: If x is true, then y is also true, else y is false
+- Functions: Code for performing a specific task on the data
+- Loops: Repetition of tasks, usually involving multiple functions and conditionals
+
+These aspects of the programming languages do not differ. So why are there two?
+
+### Differences: Determining What's Best for You
+
+R or Python? Python or R? Here are some aspects to consider when determining what programming language you'd like to use, and why.
+
+- What are the main reasons you need to learn and use a programming language? If it's largely to run data analysis and produce visualizations, R may be the better bet. If it's to run jobs on large data sets, such as for integration, Python may be the answer. 
+- What does your field or group use? When deciding on a language to learn, do your homework. For example, R is more popular among ecologists whereas Python is more popular among phylogeneticists. The reasoning? While most of the reasons as to why one language is used more frequencly by one discipline over the other, the bigger picture is the functionality in how you will use it. If you're an ecologist, for instance, it may be more difficult to find appropriate packages in Python for analyzing your data versus in R. Think of the longer-term utility and go from there.
+- It's not an end-all, be-all. If you're unsure on which one to try out first, go for both and see which one "speaks" to you. Each are frequently updated, so there's no harm in trying. If anything, learning both at the same time helps solidify your understanding of the fundamentals. As these languages become more popular, so do the options for [incorporating crossover between the two](https://www.datacamp.com/community/tutorials/using-both-python-r). 
+- Once you've decided on a language (or maybe you choose both!), become familiar with its platforms beyond the base code. For example, [PyCharm](https://www.jetbrains.com/pycharm/) is frequently used for Python and [RStudio](https://rstudio.com/) is frequently used for R. [Jupyter Notebook](https://jupyter.org/) was developed in Python, but now features an [R Kernal installation option](https://github.com/SuLab/Applied-Bioinformatics/blob/Fall-2020/Configuration.md) and is great for those who seek to regularly practice both. 
+
+### Resources for Learning Either Language
+- Software Carpentry: [Python](https://swcarpentry.github.io/python-novice-inflammation/) and [R](https://swcarpentry.github.io/r-novice-gapminder/) 
+- https://www.learnpython.org/
+- https://www.r-project.org/
