@@ -16,3 +16,21 @@ Comparing two code files side by side with a diff tool can help you see changes 
 
 Many IDEs support automatic code formatting. Like a linter, these are often configurable to conform with your particular style guide. One example of such a tool is [Prettier](https://prettier.io/), which works both as a standalone tool and has integrations/plugins to work with many IDEs and text editors. This [Github repo has a large list of code formatters](https://github.com/rishirdua/awesome-code-formatters).
 
+## 4. Online Resources
+### General Recommendations
+- [Utilizing Github](https://guides.github.com/features/wikis/) for Documentation
+- [Google](https://github.com/google/eng-practices/blob/master/review/reviewer/index.md)'s Code Review Recommendations
+- [Eastern Peak](https://easternpeak.com/blog/source-code-documentation-best-practices/)
+- [UC Berkeley](https://guides.lib.berkeley.edu/how-to-write-good-documentation)
+
+### Python
+- [The Hitchhiker's Guide](https://docs.python-guide.org/writing/style/)
+- [IBM](https://developer.ibm.com/technologies/systems/articles/au-cleancode/f)
+- [Clean Code Concepts](https://github.com/zedr/clean-code-python)
+
+### R
+- [R Studio](https://rviews.rstudio.com/2016/12/02/writing-good-r-code-and-writing-well/)
+- [Software Carpentry](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
+- [R Bloggers](https://www.r-bloggers.com/writing-clean-and-readable-r-code-the-easy-way/)
+
+## 5. Group Input (May 15, 2020)
