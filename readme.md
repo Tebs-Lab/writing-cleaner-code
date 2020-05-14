@@ -12,7 +12,7 @@ Although there is no explicit ordering to this content, when facilitating a work
 
 1. [General Advice](general-advice.md)
 1. [Giving and Receiving Feedback](giving-and-getting-feedback.md)
-1. [Examples](examples/)
+1. [Examples](examples/) *note that while these are in Python, they apply to both languages
     1. [Naming Variables](examples/variable-naming.py)
     1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py)
     1. [Don't Repeat Yourself](examples/DRY.py)
