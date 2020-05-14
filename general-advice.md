@@ -72,4 +72,5 @@ R or Python? Python or R? Here are some aspects to consider when determining wha
 ### Resources for Learning Either Language
 - Software Carpentry: [Python](https://swcarpentry.github.io/python-novice-inflammation/) and [R](https://swcarpentry.github.io/r-novice-gapminder/) 
 - https://www.learnpython.org/
+- [Python for Data Analysis](https://www.youtube.com/watch?v=RJsnqpnqkLU&list=PLpMW-laAm5rPqrX7IqKacmYqXd-sSpgSq)
 - https://www.r-project.org/
