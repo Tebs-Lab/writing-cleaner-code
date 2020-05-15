@@ -1,6 +1,6 @@
 # Write Cleaner Code
 
-This repository contains a selection of advice and examples of writing cleaner code. Entire books can, and have, been written on the subject (e.g. [Clean Code by Robert Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)). These materials are primarily intended to help run workshops and lessons on writing cleaner code. They serve as a brief, but helpful, reference for some of the most common bits of advice.
+This repository contains a selection of advice and examples for writing cleaner code. Entire books can, and have, been written on the subject (e.g. [Clean Code by Robert Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)). These materials are primarily intended to help run workshops and lessons on writing cleaner code. They serve as a brief, but helpful, reference for some of the most common bits of advice.
 
 This repo is also meant to facilitate better feedback among programmers. An editorial process like code review will help programmers write cleaner code. Engaging in code review exposes programmers to other styles and helps with better understanding likes and dislikes about different coding styles for finding your own.
 
@@ -33,3 +33,7 @@ These materials were created by [Tyler Bettilyon](https://www.linkedin.com/in/ty
 Support the creation of more free, open source, public domain educational materials by sharing them with others, [subscribing to our newsletter](http://eepurl.com/dum8IP), becoming a subscriber on [Patreon](https://www.patreon.com/tebsLab), or [arranging a training from Teb's Lab](https://www.tebs-lab.com/contracting).
 
 You can additionally support the creation and maintenance of our free materials by using them -- View the [entire catalogue of free materials on the Teb's Lab website](https://www.tebs-lab.com/education).
+
+
+<img src="https://github.com/SuLab/TSRI-CBB/blob/master/Images/TebsLab-logo.png" width="35%"> <img src="https://github.com/SuLab/TSRI-CBB/blob/master/Images/scripps-logo.png" width="55%">
+
