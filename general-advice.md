@@ -66,11 +66,13 @@ R or Python? Python or R? Here are some aspects to consider when determining wha
 - Python is general purpose. If you want to do significant non-statistics work (build a website, perform web scraping, build a video game) then Python is a more natural fit. Python is sometimes called "the second best language for everything." It's rarely a bad choice, but it is not always the "best" choice for any particular problem or domain. 
 - It's not an end-all, be-all. If you're unsure on which one to try out first, go for both and see which one "speaks" to you. Each are frequently updated, so there's no harm in trying. If anything, learning both at the same time helps solidify your understanding of the fundamentals. As these languages become more popular, so do the options for [incorporating crossover between the two](https://www.datacamp.com/community/tutorials/using-both-python-r). 
   - Most long-time programmers "speak" multiple languages, and it gets easier to learn new languages as you go.
-- Once you've decided on a language (or maybe you choose both!), become familiar with its platforms beyond the base code. For example, [PyCharm](https://www.jetbrains.com/pycharm/) is frequently used for Python and [RStudio](https://rstudio.com/) is frequently used for R. [Jupyter Notebook](https://jupyter.org/) was developed in Python, but now features an [R Kernal installation option](https://github.com/SuLab/Applied-Bioinformatics/blob/Fall-2020/Configuration.md) and is great for those who seek to regularly practice both. 
+- Once you've decided on a language (or maybe you choose both!), become familiar with its platforms beyond the base code. For example, [PyCharm](https://www.jetbrains.com/pycharm/) is frequently used for Python and [RStudio](https://rstudio.com/) is frequently used for R. [Jupyter Notebook](https://jupyter.org/) was developed in Python, but now features an [R Kernel installation option](https://github.com/SuLab/Applied-Bioinformatics/blob/Fall-2020/Configuration.md) and is great for those who seek to regularly practice both. 
   - Endeavor to become a "power user" of the programming tools you use frequently — it can save you an incredible amount of time and effort overall. 
 
 ### Resources for Learning Either Language
 - Software Carpentry: [Python](https://swcarpentry.github.io/python-novice-inflammation/) and [R](https://swcarpentry.github.io/r-novice-gapminder/) 
 - https://www.learnpython.org/
+- https://realpython.com/ 
 - [Python for Data Analysis](https://www.youtube.com/watch?v=RJsnqpnqkLU&list=PLpMW-laAm5rPqrX7IqKacmYqXd-sSpgSq)
 - https://www.r-project.org/
+- How to make packages in [Python](https://realpython.com/python-modules-packages/) or in [R](https://tinyheero.github.io/jekyll/update/2015/07/26/making-your-first-R-package.html) 
