@@ -14,8 +14,8 @@ Although there is no explicit ordering to this content, when facilitating a work
 1. [Giving and Receiving Feedback](giving-and-getting-feedback.md)
 1. [Examples](examples/) *note that while these are in Python, they apply to both languages
     1. [Naming Variables](examples/variable-naming.py), and [R equivalent](https://csgillespie.wordpress.com/2010/11/23/r-style-guide/)
-    1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py), see below example for R equivalent
-    1. [Don't Repeat Yourself](examples/DRY.py) or "DRY" vs "WET", and [R equivalent](http://stat405.had.co.nz/r-style.html)
+    1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py), and [R equivalent](http://stat405.had.co.nz/r-style.html)
+    1. [Don't Repeat Yourself](examples/DRY.py) or "DRY" vs "WET", see above link for R equivalent
     1. [Documentation and Comments](examples/documentation-comments.py), and [R equivalent](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
     1. [Code Structure and Logic](examples/structure.py), and [R equivalent](http://www2.stat.duke.edu/~cr173/Sta323_Sp16/R.html)
 1. [Helpful Tools and Resources For Clean Code and Review](helpful-tools.md)
