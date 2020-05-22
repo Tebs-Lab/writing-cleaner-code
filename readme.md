@@ -6,19 +6,23 @@ This repo is also meant to facilitate better feedback among programmers. An edit
 
 While the focus of this content is on Python, there are fundmental similarities between it and R that are critical to understand for any programmer. These fundamentals will be covered as an exercise in identifying the utility of these comparable languages, and why or where one may be preferably used over another. 
 
-## Using This Repo:
+## Using This Repository
 
 Although there is no explicit ordering to this content, when facilitating a workshop or working through these samples on your own, the following order is suggested:
 
 1. [General Advice](general-advice.md)
 1. [Giving and Receiving Feedback](giving-and-getting-feedback.md)
 1. [Examples](examples/) *note that while these are in Python, they apply to both languages
-    1. [Naming Variables](examples/variable-naming.py)
-    1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py)
-    1. [Don't Repeat Yourself](examples/DRY.py) or "DRY" vs "WET"
-    1. [Documentation and Comments](examples/documentation-comments.py)
-    1. [Code Structure and Logic](examples/structure.py)
+    1. [Naming Variables](examples/variable-naming.py), and [R equivalent](https://csgillespie.wordpress.com/2010/11/23/r-style-guide/)
+    1. [Brevity vs Clarity](examples/brevity-vs-clarity-KISS.py), see below example for R equivalent
+    1. [Don't Repeat Yourself](examples/DRY.py) or "DRY" vs "WET", and [R equivalent](http://stat405.had.co.nz/r-style.html)
+    1. [Documentation and Comments](examples/documentation-comments.py), and [R equivalent](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/)
+    1. [Code Structure and Logic](examples/structure.py), and [R equivalent](http://www2.stat.duke.edu/~cr173/Sta323_Sp16/R.html)
 1. [Helpful Tools and Resources For Clean Code and Review](helpful-tools.md)
+
+## See something that could be better organized, or perhaps is missing altogether?
+
+Submit an issue of the edit you'd like to see. 
 
 ## Copyright and Licensing
 
@@ -36,4 +40,3 @@ You can additionally support the creation and maintenance of our free materials 
 
 
 <img src="https://github.com/SuLab/TSRI-CBB/blob/master/Images/TebsLab-logo.png" width="35%"> <img src="https://github.com/SuLab/TSRI-CBB/blob/master/Images/scripps-logo.png" width="55%">
-
